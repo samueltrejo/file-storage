@@ -1,0 +1,34 @@
+{
+  "apps": [
+    {
+      "appName": "Manos Creativas",
+      "appContacts": [
+        {
+          "contactName": "Veronica Gonzales",
+          "contactPhone": "6157558841",
+          "contactEmail": ""
+        },
+        {
+          "contactName": "Samuel Trejo",
+          "contactPhone": "6159444791",
+          "contactEmail": ""
+        }
+      ]
+    },
+    {
+      "appName": "Arturo Handyman",
+      "appContacts": [
+        {
+          "contactName": "Arturo Trejo",
+          "contactPhone": "6157194851",
+          "contactEmail": ""
+        },
+        {
+          "contactName": "Samuel Trejo",
+          "contactPhone": "6159444791",
+          "contactEmail": ""
+        }
+      ]
+    }
+  ]
+}
