@@ -29,6 +29,21 @@
           "contactEmail": ""
         }
       ]
+    },
+    {
+      "appName": "Test App",
+      "appContacts": [
+        {
+          "contactName": "Samuel Trejo",
+          "contactPhone": "6157194851",
+          "contactEmail": ""
+        },
+        {
+          "contactName": "Silvestre Luna",
+          "contactPhone": "6157666923",
+          "contactEmail": ""
+        }
+      ]
     }
   ]
 }
