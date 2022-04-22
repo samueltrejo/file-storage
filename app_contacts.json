@@ -5,12 +5,18 @@
       "appContacts": [
         {
           "contactName": "Veronica Gonzales",
-          "contactPhone": "6157558841",
+          "contactPhone": {
+            "phoneNumber": "6157558841",
+            "phoneCarrier": "Cricket Wireless"
+          },
           "contactEmail": ""
         },
         {
           "contactName": "Samuel Trejo",
-          "contactPhone": "6159444791",
+          "contactPhone": {
+            "phoneNumber": "6159444791",
+            "phoneCarrier": "Cricket Wireless"
+          },
           "contactEmail": ""
         }
       ]
@@ -20,12 +26,18 @@
       "appContacts": [
         {
           "contactName": "Arturo Trejo",
-          "contactPhone": "6157194851",
+          "contactPhone": {
+            "phoneNumber": "6157194851",
+            "phoneCarrier":"Cricket Wireless"
+          },
           "contactEmail": ""
         },
         {
           "contactName": "Samuel Trejo",
-          "contactPhone": "6159444791",
+          "contactPhone": {
+            "phoneNumber": "6159444791",
+            "phoneCarrier": "Cricket Wireless"
+          },
           "contactEmail": ""
         }
       ]
@@ -35,12 +47,18 @@
       "appContacts": [
         {
           "contactName": "Samuel Trejo",
-          "contactPhone": "6157194851",
+          "contactPhone": {
+            "phoneNumber": "6159444791",
+            "phoneCarrier": "Cricket Wireless"
+          },
           "contactEmail": ""
         },
         {
           "contactName": "Silvestre Luna",
-          "contactPhone": "6157666923",
+          "contactPhone": {
+            "phoneNumber": "6157666923",
+            "phoneCarrier": "Verizon"
+          },
           "contactEmail": ""
         }
       ]
